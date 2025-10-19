@@ -1,5 +1,40 @@
 # Teste de Desenvolvedor Flutter: Aplicativo de Autenticação TOTP
 
+## Instalação e execução
+
+Antes de executar o aplicativo, instale as dependências do Flutter e do backend (API). Abaixo estão os passos recomendados para macOS.
+
+1. Instalar dependências do Flutter (no diretório do projeto Flutter):
+
+```bash
+# instale as dependências do flutter
+flutter pub get
+```
+
+2. Configurar e iniciar o backend (API):
+
+```bash
+# entre no diretório api e siga as instruções do api/README.md
+cd api
+
+```
+
+3. Rodar os testes do Flutter:
+
+```bash
+# execute os testes unitários
+flutter test
+```
+
+4. Executar o aplicativo:
+
+```bash
+# para executar o app
+flutter run
+```
+
+Observação: Certifique-se de que o backend esteja rodando em http://127.0.0.1:5000 antes de testar a autenticação TOTP.
+
 ## 🎥 Demo
 
 <img src="demo/demo.gif" alt="Demo do App TOTP" width="200" />
