@@ -2,7 +2,7 @@
 
 ## Instalação e execução
 
-Antes de executar o aplicativo, instale as dependências do Flutter e do backend (API). Abaixo estão os passos recomendados para macOS.
+Antes de executar o aplicativo, instale as dependências do Flutter e do backend (API). Abaixo estão os passos recomendados.
 
 1. Instalar dependências do Flutter (no diretório do projeto Flutter):
 
